@@ -1,0 +1,7 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/boonkwee396/tv-guide/main/all.xml" x-tvg-url="https://raw.githubusercontent.com/boonkwee396/tv-guide/main/all.xml"
+#EXTINF:-1 tvg-id="456645" tvg-logo="https://i.imgur.com/AfkK0gv.png" tvg-name="台視新聞 TTV News" group-title="東亞 East Asia",台視新聞 TTV News
+https://live.wcetv.com/hls/master-ttvnews.m3u8
+#EXTINF:-1 tvg-id="456505" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/TTV_2nd_logo.svg/960px-TTV_2nd_logo.svg.png" tvg-name="台視 TTV" group-title="東亞 East Asia",台視 TTV
+http://211.72.174.95:8112/0.ts
+#EXTINF:-1 tvg-id="370139" tvg-logo="https://i.imgur.com/q8ahtbT.png" tvg-name="民視 FTV" group-title="東亞 East Asia",民視 FTV
+http://211.72.174.95:8115/0.ts
